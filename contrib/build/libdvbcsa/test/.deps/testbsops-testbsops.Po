@@ -1,0 +1,23 @@
+testbsops-testbsops.o: testbsops.c /usr/include/stdc-predef.h \
+ /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/bits/alltypes.h ../src/dvbcsa/dvbcsa.h ../src/dvbcsa_bs.h \
+ ../src/dvbcsa_pv.h ../config.h /usr/include/stdlib.h \
+ /usr/include/stddef.h /usr/include/string.h /usr/include/strings.h \
+ /usr/include/inttypes.h /usr/include/stdint.h /usr/include/bits/stdint.h \
+ ../src/dvbcsa_bs_uint64.h
+/usr/include/stdc-predef.h:
+/usr/include/stdio.h:
+/usr/include/features.h:
+/usr/include/bits/alltypes.h:
+../src/dvbcsa/dvbcsa.h:
+../src/dvbcsa_bs.h:
+../src/dvbcsa_pv.h:
+../config.h:
+/usr/include/stdlib.h:
+/usr/include/stddef.h:
+/usr/include/string.h:
+/usr/include/strings.h:
+/usr/include/inttypes.h:
+/usr/include/stdint.h:
+/usr/include/bits/stdint.h:
+../src/dvbcsa_bs_uint64.h:

@@ -1,0 +1,25 @@
+dvbcsa_bs_algo.lo: dvbcsa_bs_algo.c /usr/include/stdc-predef.h \
+ dvbcsa/dvbcsa.h dvbcsa_bs.h dvbcsa_pv.h ../config.h \
+ /usr/include/stdlib.h /usr/include/features.h \
+ /usr/include/bits/alltypes.h /usr/include/stddef.h /usr/include/string.h \
+ /usr/include/strings.h /usr/include/inttypes.h /usr/include/stdint.h \
+ /usr/include/bits/stdint.h dvbcsa_bs_uint64.h \
+ /usr/lib/gcc/x86_64-alpine-linux-musl/10.2.1/include/mm_malloc.h \
+ /usr/include/assert.h
+/usr/include/stdc-predef.h:
+dvbcsa/dvbcsa.h:
+dvbcsa_bs.h:
+dvbcsa_pv.h:
+../config.h:
+/usr/include/stdlib.h:
+/usr/include/features.h:
+/usr/include/bits/alltypes.h:
+/usr/include/stddef.h:
+/usr/include/string.h:
+/usr/include/strings.h:
+/usr/include/inttypes.h:
+/usr/include/stdint.h:
+/usr/include/bits/stdint.h:
+dvbcsa_bs_uint64.h:
+/usr/lib/gcc/x86_64-alpine-linux-musl/10.2.1/include/mm_malloc.h:
+/usr/include/assert.h:

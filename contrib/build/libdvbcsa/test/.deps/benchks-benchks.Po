@@ -1,0 +1,26 @@
+benchks-benchks.o: benchks.c /usr/include/stdc-predef.h \
+ /usr/include/time.h /usr/include/features.h /usr/include/bits/alltypes.h \
+ /usr/include/stdio.h /usr/include/sys/time.h /usr/include/sys/select.h \
+ ../src/dvbcsa/dvbcsa.h ../src/dvbcsa_pv.h ../config.h \
+ /usr/include/stdlib.h /usr/include/stddef.h /usr/include/string.h \
+ /usr/include/strings.h /usr/include/inttypes.h /usr/include/stdint.h \
+ /usr/include/bits/stdint.h /usr/include/sched.h /usr/include/assert.h
+/usr/include/stdc-predef.h:
+/usr/include/time.h:
+/usr/include/features.h:
+/usr/include/bits/alltypes.h:
+/usr/include/stdio.h:
+/usr/include/sys/time.h:
+/usr/include/sys/select.h:
+../src/dvbcsa/dvbcsa.h:
+../src/dvbcsa_pv.h:
+../config.h:
+/usr/include/stdlib.h:
+/usr/include/stddef.h:
+/usr/include/string.h:
+/usr/include/strings.h:
+/usr/include/inttypes.h:
+/usr/include/stdint.h:
+/usr/include/bits/stdint.h:
+/usr/include/sched.h:
+/usr/include/assert.h:
